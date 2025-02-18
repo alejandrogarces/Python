@@ -2,6 +2,8 @@
 
 En este simple script generamos una serie de escenarios de generacion a partir de una base de datos de radiación solar fotovoltaica
 
+![](bokeh_plot.png)
+
 ---
 ## Contacto
 
